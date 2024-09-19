@@ -1,0 +1,107 @@
+{
+    "contact": {
+        "title": "Need help with your project",
+        "description": "Catch phrase for good first contact 🚀",
+        "form": {
+            "lastname": "Lastname",
+            "firstname": "Firstname",
+            "email": "Email",
+            "phone": "Phone",
+            "message": "Message",
+            "messagePlaceholder": "Please specify the nature of your request",
+            "button": "Send",
+            "success": "Form submitted successfully!",
+            "error": "Error sending form contact us for more informations"
+        }
+    },
+    "index": {
+        "button": "Book a call",
+        "description": "Welcome to my digital portfolio! I’m a dedicated pokemon master, here to share my journey and explore the future of tech while having fun!"
+    },
+    "cvCard": {
+        "job1": {
+            "title": "Senior Software Architect",
+            "date": "2023-Now",
+            "company": "AlphaTech Solutions",
+            "url": "https://www.alphatechsolutions.com",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum.",
+            "stack": [
+                "Python",
+                "VueJS",
+                "GCP"
+            ]
+        },
+        "job2": {
+            "title": "Technical Product Engineer",
+            "date": "2020-2023",
+            "company": "Beta Innovations",
+            "url": "https://www.betainnovations.com",
+            "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer lacinia.",
+            "stack": [
+                "Computer Science",
+                "Project Management"
+            ]
+        },
+        "job3": {
+            "title": "Data Science Consultant",
+            "date": "2020-2023",
+            "company": [
+                "Company A",
+                "Company B",
+                "Company C"
+            ],
+            "url": [
+                "https://www.companya.com",
+                "https://www.companyb.com",
+                "https://www.companyc.com"
+            ],
+            "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+            "stack": [
+                "Data Science",
+                "Course Design",
+                "Hackathons"
+            ]
+        },
+        "job4": {
+            "title": "Machine Learning Engineer",
+            "date": "2018-2020",
+            "company": "Gamma Tech Corp",
+            "url": "https://www.gammatechcorp.com",
+            "description": "Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.",
+            "stack": [
+                "GCP",
+                "Docker",
+                "Python",
+                "Machine Learning"
+            ]
+        }
+    },
+    "resume": {
+        "title": "Resume",
+        "description1": "Passionate about ..., I hold some degree from",
+        "school": "XYZ University of Engineering.",
+        "description2": "I currently work as a pokemon master",
+        "slogan": "Tech keeps moving fast, and so do I 😎",
+        "techTitle": "Tech Stack",
+        "tech": "I love solving problems like every programmer 🚀",
+        "techCard1": "Favorite Tech Stack",
+        "techCardDescription1": "Here's my favourite techs I use to tackle projects.",
+        "techCard2": "Web Tools",
+        "techCardDescription2": "Web dev stuff",
+        "techCard3": "Diving Into Data",
+        "techCardDescription3": "Data stuff",
+        "techCard4": "Tools & Playground",
+        "techCardDescription4": "Fun part enjoy",
+        "seo": "some seo hook text"
+    },
+    "about": {
+        "title": "About me",
+        "button": "Click here",
+        "llm_error": "Our AI is taking a quick nap for the moment, come back later 💤",
+        "description1": "Speaking about yourself and showcasing your talents through pre-made formulations. 🙄",
+        "description2": "For a half-pumped cover letter on Google via semi-free templates I'm supposed to write for the one and only reason you're supposed to want to hear them:",
+        "description3": "For a cover letter fully generated in 0.27 seconds via ChatGPT like certainly 95% of cover letters currently on your desktop:",
+        "description4": "To really know my profile and my motivations:",
+        "description5": "and engage the conversation. You will see that we will learn more about each other in 3 minutes of discussion than in 3 pages of hypocritical banalities"
+    }
+}

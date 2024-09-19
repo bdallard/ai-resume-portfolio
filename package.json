@@ -1,0 +1,36 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@iconify/json": "^2.2.196",
+    "@langchain/groq": "^0.0.9",
+    "@nuxt/fonts": "^0.6.1",
+    "@nuxt/ui-pro": "^1.1.0",
+    "@nuxtjs/google-fonts": "^3.2.0",
+    "@nuxtjs/seo": "^2.0.0-rc.10",
+    "langchain": "^0.1.36",
+    "nuxt": "^3.11.1",
+    "pdfjs-dist": "^4.2.67",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0",
+    "vue3-lottie": "^3.3.0"
+  },
+  "devDependencies": {
+    "@dargmuesli/nuxt-cookie-control": "^8.4.2",
+    "@nuxtjs/i18n": "^8.3.0",
+    "cookie-control": "^0.1.1",
+    "groq-sdk": "^0.3.3",
+    "ioredis": "^5.4.1",
+    "minio": "^7.1.4",
+    "nuxt-aos": "^1.2.4",
+    "nuxt-rate-limit": "^1.2.0"
+  }
+}

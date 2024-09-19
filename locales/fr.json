@@ -1,0 +1,107 @@
+{
+    "contact": {
+        "title": "Besoin d'aide pour votre projet",
+        "description": "Ce genre d'accroche pour un bon contact 🚀",
+        "form": {
+            "lastname": "Nom",
+            "firstname": "Prénom",
+            "email": "E-mail",
+            "phone": "Téléphone",
+            "message": "Message",
+            "messagePlaceholder": "Veuillez préciser la nature de votre demande",
+            "button": "Envoyer",
+            "success": "Formulaire envoyé avec succès !",
+            "error": "Erreur lors de l'envoi du formulaire, contactez-nous pour plus d'informations"
+        }
+    },
+    "index": {
+        "button": "Planifier un appel",
+        "description": "Bienvenue sur mon portfolio digital ! Je suis un dresseur de pokemon certifié, ici pour partager mon parcours et explorer le futur de la tech tout en m'amusant !"
+    },
+    "cvCard": {
+        "job1": {
+            "title": "Architecte Logiciel Senior",
+            "date": "2023-Maintenant",
+            "company": "AlphaTech Solutions",
+            "url": "https://www.alphatechsolutions.com",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum.",
+            "stack": [
+                "Python",
+                "VueJS",
+                "GCP"
+            ]
+        },
+        "job2": {
+            "title": "Ingénieur Produit Technique",
+            "date": "2020-2023",
+            "company": "Beta Innovations",
+            "url": "https://www.betainnovations.com",
+            "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer lacinia.",
+            "stack": [
+                "Informatique",
+                "Gestion de Projet"
+            ]
+        },
+        "job3": {
+            "title": "Consultant en Science des Données",
+            "date": "2020-2023",
+            "company": [
+                "Entreprise A",
+                "Entreprise B",
+                "Entreprise C"
+            ],
+            "url": [
+                "https://www.entreprisea.com",
+                "https://www.entrepriseb.com",
+                "https://www.entreprisec.com"
+            ],
+            "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+            "stack": [
+                "Science des Données",
+                "Conception de Cours",
+                "Hackathons"
+            ]
+        },
+        "job4": {
+            "title": "Ingénieur en Apprentissage Automatique",
+            "date": "2018-2020",
+            "company": "Gamma Tech Corp",
+            "url": "https://www.gammatechcorp.com",
+            "description": "Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.",
+            "stack": [
+                "GCP",
+                "Docker",
+                "Python",
+                "Apprentissage Automatique"
+            ]
+        }
+    },
+    "resume": {
+        "title": "CV",
+        "description1": "Passionné par ..., je détiens un diplôme de",
+        "school": "Université d'Ingénierie XYZ.",
+        "description2": "Je travaille actuellement comme maître Pokémon",
+        "slogan": "La technologie évolue rapidement, et moi aussi 😎",
+        "techTitle": "Compétences Techniques",
+        "tech": "J'aime résoudre des problèmes comme tous programmeur 🚀",
+        "techCard1": "Technologies Préférées",
+        "techCardDescription1": "Voici mes technologies préférées que j'utilise pour aborder les projets.",
+        "techCard2": "Outils Web",
+        "techCardDescription2": "Trucs de développement web",
+        "techCard3": "Plongée dans les Données",
+        "techCardDescription3": "Trucs de données",
+        "techCard4": "Outils & Terrain de Jeu",
+        "techCardDescription4": "Partie amusante, profitez-en",
+        "seo": "quelque texte accrocheur pour le SEO"
+    },
+    "about": {
+        "title": "À propos de moi",
+        "button": "Cliquez ici",
+        "llm_error": "Notre IA fait une petite sieste pour le moment, revenez plus tard 💤",
+        "description1": "Parler de soi et se mettre en valeur avec des formulations préfabriquées 🙄",
+        "description2": "Pour une lettre de motivation à moitié gonflée sur Google via des modèles semi-gratuits que je suis censé écrire pour la seule et unique raison que vous êtes censé vouloir les entendre :",
+        "description3": "Pour une lettre de motivation entièrement générée en 0,27 seconde via ChatGPT comme certainement 95% des lettres de motivation actuellement sur votre bureau :",
+        "description4": "Pour vraiment connaître mon profil et mes motivations :",
+        "description5": "et engager la conversation. Vous verrez que nous en apprendrons plus l'un sur l'autre en 3 minutes de discussion qu'en 3 pages de banalités hypocrites"
+    }
+}
