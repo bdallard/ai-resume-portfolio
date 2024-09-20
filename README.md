@@ -24,6 +24,7 @@ To utilize the cover letter generation feature, you need to set up Groq LLM:
 1. Sign up for a [Groq](https://groq.com) account.
 2. Create an API key.
 3. Add the API key to your `.env` file.
+4. (Optional) Set up the rate limiter module in the `nuxt.config.ts` 
 
 ### 2. Minio
 
